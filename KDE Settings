@@ -1,0 +1,23 @@
+global theme=breeze
+colors=cosmic cyberpunk (https://github.com/MurderFromMars/Cosmic-Cyberpunk-Color-scheme can be get from here)
+application style=breeze
+plasma style=irisdecent round
+window decorations=breeze
+Icons=magna dark icons
+Cursor=night diamond
+System sounds=ocean
+Splash screen=CachyOS nord
+Login screen=CachyOS Simply Black
+Boot-Splash-Screen=CachyOs-boot-animation
+
+Fonts=Jetbrains mono (sudo pacman -S ttf-jetbrains-mono)
+
+Resize window=Ctrl + Q
+Move windows=Ctrl + E
+
+Desktop Effect:Fall Apart
+KRunner-Posistion-On-Screen:Center
+Desktop Session:start with an empty-session
+
+Mode:Performance Mode
+Kernel=CachyOS-Bore-lto-kernel
