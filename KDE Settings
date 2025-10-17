@@ -36,3 +36,47 @@ Appearence > Background & Shadow Off
 Appearence > Scroll Down > Shape > RADİus > Make all 30 radius
 
 Widget > Dock Widget > Add to dock > Appliaction Menu
+
+Clipboard=Klipper
+Files Manager=Dolphin
+Terminal=Kitty
+Music=Spotify
+App Store=Discover or Bazaar
+Browser=Zen Browser
+Notes=Obsidian
+Photos=Pix
+Text Editor=Kate
+Calculator=Gnome Calculator
+MC CLient=ATLauncher
+Fetch=Fastfetch
+Distro=CachyOS
+Brightness=75%
+Office:Libreoffice
+Photo View:Gwenview
+Video View:Haruna
+Screen Recorder:GPU SCREEN_RECORDer
+Overlay:MangoHUD
+Steam:ProtonGE or experimentla
+Mail:Thunderbird
+Keyboard Speed:Keypunch
+Send:KDE Connect,sshfs,localsend
+AdwSteamGtk:Steam Theme > Black
+Webapp:webapp-manager
+AUR:yay
+Auth=Ente
+Mouse=Piper
+Stacer:Stacer,systemmonitor
+Bitwarden:Bitwarden
+AI=Cherry studio
+EMoji-Emote
+Partition:GParted
+Bauh:Bauh
+YT:VacuumTube
+Mail:Thunderbird
+Draw:GIMP
+Image:Imagemagick,Upsceyl
+YAD:YAD
+FEH:FEH
+Game-Launcher_Cart-Ridges
+Game:Duckrun
+
