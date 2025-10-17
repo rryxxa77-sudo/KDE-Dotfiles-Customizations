@@ -21,3 +21,18 @@ Desktop Session:start with an empty-session
 
 Mode:Performance Mode
 Kernel=CachyOS-Bore-lto-kernel
+
+Wallpapers Repo:https://github.com/xyarjun/walls/blob/main/animated/fireplace.gif (fireplace)
+
+Dock Settings:
+1:DOdge windows
+2:Height=32
+3:Fit content
+4:Center
+
+Panel Colorizer
+Style:Black
+Appearence > Background & Shadow Off
+Appearence > Scroll Down > Shape > RADİus > Make all 30 radius
+
+Widget > Dock Widget > Add to dock > Appliaction Menu
